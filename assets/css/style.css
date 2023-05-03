@@ -1,0 +1,9 @@
+:root{
+    background-color: aquamarine;
+    flex: auto;
+    width: auto;
+}
+
+.hide{
+    display: none;
+}
